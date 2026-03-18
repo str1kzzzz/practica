@@ -1,0 +1,14 @@
+/Users/shubzda.yaroslaviclou.com/Projects/Shubzda_PrilozhenieA/task2/bin/Debug/net8.0/task2
+/Users/shubzda.yaroslaviclou.com/Projects/Shubzda_PrilozhenieA/task2/bin/Debug/net8.0/task2.deps.json
+/Users/shubzda.yaroslaviclou.com/Projects/Shubzda_PrilozhenieA/task2/bin/Debug/net8.0/task2.runtimeconfig.json
+/Users/shubzda.yaroslaviclou.com/Projects/Shubzda_PrilozhenieA/task2/bin/Debug/net8.0/task2.dll
+/Users/shubzda.yaroslaviclou.com/Projects/Shubzda_PrilozhenieA/task2/bin/Debug/net8.0/task2.pdb
+/Users/shubzda.yaroslaviclou.com/Projects/Shubzda_PrilozhenieA/task2/obj/Debug/net8.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shubzda.yaroslaviclou.com/Projects/Shubzda_PrilozhenieA/task2/obj/Debug/net8.0/task2.AssemblyInfoInputs.cache
+/Users/shubzda.yaroslaviclou.com/Projects/Shubzda_PrilozhenieA/task2/obj/Debug/net8.0/task2.AssemblyInfo.cs
+/Users/shubzda.yaroslaviclou.com/Projects/Shubzda_PrilozhenieA/task2/obj/Debug/net8.0/task2.csproj.CoreCompileInputs.cache
+/Users/shubzda.yaroslaviclou.com/Projects/Shubzda_PrilozhenieA/task2/obj/Debug/net8.0/task2.dll
+/Users/shubzda.yaroslaviclou.com/Projects/Shubzda_PrilozhenieA/task2/obj/Debug/net8.0/refint/task2.dll
+/Users/shubzda.yaroslaviclou.com/Projects/Shubzda_PrilozhenieA/task2/obj/Debug/net8.0/task2.pdb
+/Users/shubzda.yaroslaviclou.com/Projects/Shubzda_PrilozhenieA/task2/obj/Debug/net8.0/task2.genruntimeconfig.cache
+/Users/shubzda.yaroslaviclou.com/Projects/Shubzda_PrilozhenieA/task2/obj/Debug/net8.0/ref/task2.dll
