@@ -1,0 +1,19 @@
+﻿@model List<StudyPlanner.Models.StudyTask>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<h2>Ближайшие задачи</h2>
+
+@foreach (var task in Model)
+{
+    <div style="margin-bottom:15px;">
+        <strong>@task.Subject</strong><br />
+        Дедлайн: @task.Deadline.ToShortDateString()<br />
+
+        @if (!task.Completed)
+        {
+            <a asp-action="Complete" asp-route-id="@task.Id">Отметить выполненной</a>
+        }
+    </div>
+}
+
+<a asp-action="Add">Добавить задачу</a>

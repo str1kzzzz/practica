@@ -1,0 +1,21 @@
+C:\Users\user\OneDrive\Рабочий стол\практика шарп\12 pract\12 pract\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\user\OneDrive\Рабочий стол\практика шарп\12 pract\12 pract\obj\Debug\net10.0-windows\12 pract_MarkupCompile.cache
+C:\Users\user\OneDrive\Рабочий стол\практика шарп\12 pract\12 pract\bin\Debug\net10.0-windows\12 pract.exe
+C:\Users\user\OneDrive\Рабочий стол\практика шарп\12 pract\12 pract\bin\Debug\net10.0-windows\12 pract.deps.json
+C:\Users\user\OneDrive\Рабочий стол\практика шарп\12 pract\12 pract\bin\Debug\net10.0-windows\12 pract.runtimeconfig.json
+C:\Users\user\OneDrive\Рабочий стол\практика шарп\12 pract\12 pract\bin\Debug\net10.0-windows\12 pract.dll
+C:\Users\user\OneDrive\Рабочий стол\практика шарп\12 pract\12 pract\bin\Debug\net10.0-windows\12 pract.pdb
+C:\Users\user\OneDrive\Рабочий стол\практика шарп\12 pract\12 pract\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\user\OneDrive\Рабочий стол\практика шарп\12 pract\12 pract\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\user\OneDrive\Рабочий стол\практика шарп\12 pract\12 pract\obj\Debug\net10.0-windows\12 pract.g.resources
+C:\Users\user\OneDrive\Рабочий стол\практика шарп\12 pract\12 pract\obj\Debug\net10.0-windows\12 pract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Рабочий стол\практика шарп\12 pract\12 pract\obj\Debug\net10.0-windows\12 pract.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\практика шарп\12 pract\12 pract\obj\Debug\net10.0-windows\12 pract.AssemblyInfo.cs
+C:\Users\user\OneDrive\Рабочий стол\практика шарп\12 pract\12 pract\obj\Debug\net10.0-windows\12 pract.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\практика шарп\12 pract\12 pract\obj\Debug\net10.0-windows\12 pract.dll
+C:\Users\user\OneDrive\Рабочий стол\практика шарп\12 pract\12 pract\obj\Debug\net10.0-windows\refint\12 pract.dll
+C:\Users\user\OneDrive\Рабочий стол\практика шарп\12 pract\12 pract\obj\Debug\net10.0-windows\12 pract.pdb
+C:\Users\user\OneDrive\Рабочий стол\практика шарп\12 pract\12 pract\obj\Debug\net10.0-windows\12 pract.genruntimeconfig.cache
+C:\Users\user\OneDrive\Рабочий стол\практика шарп\12 pract\12 pract\obj\Debug\net10.0-windows\ref\12 pract.dll
+C:\Users\user\OneDrive\Рабочий стол\практика шарп\12 pract\12 pract\obj\Debug\net10.0-windows\Window1.baml
+C:\Users\user\OneDrive\Рабочий стол\практика шарп\12 pract\12 pract\obj\Debug\net10.0-windows\Window1.g.cs

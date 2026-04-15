@@ -1,0 +1,11 @@
+﻿@model StudyPlanner.Models.StudyTask
+
+<h2>Добавить учебную задачу</h2>
+
+<form asp-action="Add" method="post">
+    <p>Предмет: <input asp-for="Subject" /></p>
+    <p>Дедлайн: <input asp-for="Deadline" type="date" /></p>
+    <p>Выполнено: <input asp-for="Completed" type="checkbox" /></p>
+
+    <button type="submit">Добавить</button>
+</form>
